@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A309DB86-84E1-4054-ACEE-248EC067AA53}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjectArise/User.cs">
+    <Files>
+      <File FileName="ProjectArise/Program.cs" Line="18" Column="1" />
+      <File FileName="ProjectArise/User.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectArise" expanded="True">
+            <Node name="ProjectArise" expanded="True">
+              <Node name="User.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProjectArise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

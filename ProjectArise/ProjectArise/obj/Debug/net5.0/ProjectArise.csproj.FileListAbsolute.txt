@@ -1,0 +1,15 @@
+/Users/achraffaress/Documents/GitHub/ProjectArise/ProjectArise/ProjectArise/bin/Debug/net5.0/ProjectArise.deps.json
+/Users/achraffaress/Documents/GitHub/ProjectArise/ProjectArise/ProjectArise/bin/Debug/net5.0/ProjectArise.runtimeconfig.json
+/Users/achraffaress/Documents/GitHub/ProjectArise/ProjectArise/ProjectArise/bin/Debug/net5.0/ProjectArise.runtimeconfig.dev.json
+/Users/achraffaress/Documents/GitHub/ProjectArise/ProjectArise/ProjectArise/bin/Debug/net5.0/ProjectArise.dll
+/Users/achraffaress/Documents/GitHub/ProjectArise/ProjectArise/ProjectArise/bin/Debug/net5.0/ref/ProjectArise.dll
+/Users/achraffaress/Documents/GitHub/ProjectArise/ProjectArise/ProjectArise/bin/Debug/net5.0/ProjectArise.pdb
+/Users/achraffaress/Documents/GitHub/ProjectArise/ProjectArise/ProjectArise/obj/Debug/net5.0/ProjectArise.csprojAssemblyReference.cache
+/Users/achraffaress/Documents/GitHub/ProjectArise/ProjectArise/ProjectArise/obj/Debug/net5.0/ProjectArise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/achraffaress/Documents/GitHub/ProjectArise/ProjectArise/ProjectArise/obj/Debug/net5.0/ProjectArise.AssemblyInfoInputs.cache
+/Users/achraffaress/Documents/GitHub/ProjectArise/ProjectArise/ProjectArise/obj/Debug/net5.0/ProjectArise.AssemblyInfo.cs
+/Users/achraffaress/Documents/GitHub/ProjectArise/ProjectArise/ProjectArise/obj/Debug/net5.0/ProjectArise.csproj.CoreCompileInputs.cache
+/Users/achraffaress/Documents/GitHub/ProjectArise/ProjectArise/ProjectArise/obj/Debug/net5.0/ProjectArise.dll
+/Users/achraffaress/Documents/GitHub/ProjectArise/ProjectArise/ProjectArise/obj/Debug/net5.0/ref/ProjectArise.dll
+/Users/achraffaress/Documents/GitHub/ProjectArise/ProjectArise/ProjectArise/obj/Debug/net5.0/ProjectArise.pdb
+/Users/achraffaress/Documents/GitHub/ProjectArise/ProjectArise/ProjectArise/obj/Debug/net5.0/ProjectArise.genruntimeconfig.cache
